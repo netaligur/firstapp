@@ -25,10 +25,6 @@ public class DisplayMessageActivity extends Activity {
         setContentView(textView);
     }
 
-   
-   
-
-    
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
